@@ -1,0 +1,33 @@
+:root {
+  /* 主品牌色（更偏“信任 + 本地服务蓝”） */
+  --primary: #1e5eff;
+  --primary-thin: #4da3ff;
+  --primary-hover: #1747c7;
+  --primary-bg: #f5f8ff;
+
+  /* 背景色（更干净、偏白网站风格） */
+  --bg-white: #ffffff;
+  --bg-light: #f7f9fc;
+  --bg-accent: linear-gradient(135deg, #f5f8ff, #ffffff);
+
+  /* 文字颜色（更清晰层级） */
+  --text-main: #111827;
+  --text-sub: #4b5563;
+  --text-light: #6b7280;
+
+  /* 边框（更轻、更现代） */
+  --border: #e5e7eb;
+
+  /* 阴影（更柔和，偏现代 SaaS 风格） */
+  --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 12px 30px rgba(0, 0, 0, 0.1);
+  --primary-shadow: rgba(30, 94, 255, 0.35);
+
+  /* CTA按钮（更醒目但不刺眼） */
+  --btn-primary: #1e5eff;
+  --btn-hover: #1747c7;
+
+  /* Radius（更现代一点） */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+}
